@@ -104,8 +104,6 @@ The final model incorporates:
 
 - `prompt_II.ipynb` - Complete analysis notebook with data exploration, modeling, and results
 - `README.md` - This summary report
-- `data/` - Dataset files (if included)
-- `requirements.txt` - Python dependencies
 
 ## Conclusion
 
